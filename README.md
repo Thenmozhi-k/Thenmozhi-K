@@ -23,7 +23,7 @@
 <br/> 
 
 # 💻 Tech Stack:
-<p align="left">
+<div align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80" style="border: 1px solid #6e5494; margin: 4px;">
   </a>
@@ -42,6 +42,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80" style="border: 1px solid #6e5494; margin: 4px;">
   </a>
+</div>
+<div align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80" style="border: 1px solid #6e5494; margin: 4px;">
   </a>
@@ -60,10 +62,13 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80" style="border: 1px solid #6e5494; margin: 4px;">
   </a>
+</div>
+<div align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="80" height="80" style="border: 1px solid #6e5494; margin: 4px;">
   </a>
-</p>
+</div>
+
 
 
 
