@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thenmozhi!😇</h1>
 <h3 align="center">A passionate frontend developer | Open Source Contributor</h3>
 
-![Welcome GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+
 
 - 🌱 I'm currently learning blockchain and Web3 technology.
-- 👯![Collaboration GIF](https://media.giphy.com/media/3oKIPzXlRl1Y9bKS9y/giphy.gif)
- I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊
+- 👯I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊
 - 📫 How to reach me: jothi552004@gmail.com
 
 <p align="center">
