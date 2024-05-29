@@ -4,7 +4,7 @@
 # 💫 About Me:
 🌱 I'm currently learning blockchain and Web3 technology.<br>👯 Collaboration I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊<br>📫 How to reach me: jothi552004@gmail.com.
 
-
+<br>
 ## 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/thenmozhi-k-279b18255/" target="blank">
