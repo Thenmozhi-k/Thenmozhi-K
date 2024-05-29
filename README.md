@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer | OpenSource Contributor</h3>
 
 - 🌱 I'm currently learning blockchain and Web3 technology.
-- 👯![Collaboration GIF](https://content.presentermedia.com/content/animsp/00003000/3115/brainstorming_huddle_PA_md_nwm_v2.gif)
-I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊
-- 📫 How to reach me: jothi552004@gmail.com
+- 👯 <img src="https://content.presentermedia.com/content/animsp/00003000/3115/brainstorming_huddle_PA_md_nwm_v2.gif" alt="Collaboration" width="20" height="20"/> I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊
+- 📫 How to reach me: jothi552004@gmail.com.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
