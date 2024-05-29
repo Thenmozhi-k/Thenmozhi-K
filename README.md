@@ -21,38 +21,48 @@
 -->
 
 # 💻 Tech Stack:
-<div style="display: flex; justify-content: space-between;">
-  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 5px;">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 5px;">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 5px;">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 5px;">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 5px;">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 5px;">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-  </div>
-</div>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/bootstrap.svg" alt="bootstrap" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/css3.svg" alt="css3" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/figma.svg" alt="figma" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/git.svg" alt="git" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/html5.svg" alt="html5" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/linux.svg" alt="linux" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/mongodb.svg" alt="mongodb" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/nodejs.svg" alt="nodejs" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/python.svg" alt="python" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/react.svg" alt="react" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/redux.svg" alt="redux" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/tailwindcss.svg" alt="tailwind" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/vuejs.svg" alt="vuejs" width="40" height="40" style="border: 1px solid #6e5494; margin: 4px;">
+  </a>
+</p>
+
 
 
 
