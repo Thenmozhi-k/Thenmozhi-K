@@ -85,18 +85,23 @@
 -->
 <br/> 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thenmozhi-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thenmozhi-K&theme=dark&hide_border=false)<br/>
+# 📊 GitHub Stats:<br/>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Thenmozhi-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thenmozhi-K&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenmozhi-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+<br/><br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies<br/>
 ![](https://github-profile-trophy.vercel.app/?username=Thenmozhi-K&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/><br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Thenmozhi-K&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!--
 ### 😂 Random Dev Meme
