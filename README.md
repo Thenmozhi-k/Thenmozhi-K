@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi 👋, I'm Thenmozhi!😜
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="Example Image"/>
+  Hi 👋, I'm Thenmozhi!
+
+  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="Example Image" height="30" width="40"/>
 </h1>
 
 
