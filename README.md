@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thenmozhi!😜!![Collaboration GIF](![image](https://github.com/Thenmozhi-k/Thenmozhi-K/assets/126195333/a7def9c4-5d32-424f-bad8-df66b56790fc)
+<h1 align="center">Hi 👋, I'm Thenmozhi!😜!![Collaboration GIF](![image](![238201079-e379a33a-b428-4385-b44f-3da16e7bac9f](https://github.com/Thenmozhi-k/Thenmozhi-K/assets/126195333/6b4ce0de-09f1-4b28-88de-b5c6ccc485a3)
+)
 )
 
 </h1>
