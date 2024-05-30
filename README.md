@@ -16,8 +16,8 @@
 
 <br/> 
 
-## 🌐 Connect with me:
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="60" width="60"/>
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="60" width="60"/> Connect with me:
+
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/thenmozhi-k-279b18255/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
