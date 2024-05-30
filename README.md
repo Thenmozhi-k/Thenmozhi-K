@@ -13,7 +13,7 @@
 </br></br>
 - 🌱 I'm currently learning blockchain and Web3 technology.<br>
 - 👯 I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊<br>
-- 📫 How to reach me: [jothi552004@gmail.com](mailto:jothi552004@gmail.com)
+- 📫 How to reach me: <a href="mailto:jothi552004@gmail.com">jothi552004@gmail.com</a>
 
 
 
