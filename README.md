@@ -22,11 +22,11 @@
 <h1>  Connect with me: <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="50" width="50"/></h1>
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/thenmozhi-k-279b18255/" target="blank">
+  <a href="https://www.linkedin.com/in/thenmozhi-k-279b18255/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp; <!-- Add space between the links -->
-  <a href="https://discord.gg/thenmozhi_k" target="blank">
+  <a href="https://discord.com/users/Thenmozi#6906" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
