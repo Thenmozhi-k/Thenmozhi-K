@@ -16,7 +16,7 @@
 
 <br/> 
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="60" width="60"/> <h1>Connect with me:</h1>
+<h1> <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="60" width="60"/> Connect with me:</h1>
 
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/thenmozhi-k-279b18255/" target="blank">
