@@ -10,11 +10,11 @@
 
 # 💫 About Me:
 <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcwNDUzNDksIm5iZiI6MTcxNzA0NTA0OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTMwVDA0NTcyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwZDdiYjI1NDIzOWNhNzQzMDRhYmZhYmVlYzczOWQyODExMDczMjk3YWRlOTk2M2I1NzMwM2JlYTg3YWExZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rC-g-_NZ9Mio4DZvQZE8sKy05EGyCJC4xS566Uysc6s" height="240" width="240" align="right"/>
--🌱 I'm currently learning blockchain and Web3 technology.<br>&nbsp;&nbsp;
--👯 Collaboration I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊<br>&nbsp;&nbsp;
+-🌱 I'm currently learning blockchain and Web3 technology.<br>
+-👯 Collaboration I enjoy connecting with new people, so feel free to say hello. I'd be delighted to meet you! 😊<br>
 -📫 How to reach me: jothi552004@gmail.com.
 
-<br/> 
+<br/> </br>
 
 <h1>  Connect with me: <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="60" width="60"/></h1>
 
