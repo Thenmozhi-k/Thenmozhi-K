@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thenmozhi!😜</h1>
+<h1 align="center">Hi 👋, I'm Thenmozhi!😜![https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcwMTczNjIsIm5iZiI6MTcxNzAxNzA2MiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI5VDIxMTEwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiYjBmMjNiMTlhMjE3ZWU3MTBkNTFmODQxMDBjODhlOGI0ZDllNjdiZjVmY2VlYTJhZGVjZDM0ZjljZjY4NzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.a2kXJsypVdkC0UsU9CwjqLPmcW1ECt-k3xVTbnwnta0)
+</h1>
 <h3 align="center">A passionate frontend developer | OpenSource Contributor</h3>
 
 # 💫 About Me:
