@@ -104,13 +104,14 @@
 
 <center>
 
-![](https://github-readme-stats.vercel.app/api?username=Thenmozhi-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thenmozhi-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thenmozhi-K&theme=dark&hide_border=false)<br/><br/>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Thenmozhi-K&theme=dark&hide_border=false)<br/><br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenmozhi-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenmozhi-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </center>
+
 
 <br/><br/>
 
